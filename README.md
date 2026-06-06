@@ -1,3 +1,4 @@
+
 # AI-Enhanced Medallion Lakehouse Platform 🚀
 
 Bu proje, modern veri mühendisliği standartlarına uygun olarak tasarlanmış, **Yapay Zeka (LLM) zenginleştirmeli uçtan uca bir Lakehouse (Göl Evi) veri platformudur**. 
@@ -135,3 +136,10 @@ Kontrol odasındaki (Dashboard) **"Pipeline Başlat"** butonuna basarak veya ter
 3.  **DuckDB SQL** ile klik logları ile biletleri join'leyip hatalardan olumsuz etkilenen kullanıcıları analiz eder ve Gold Delta'ya yazar.
 4.  Zenginleşen biletlerin embeddings vektörlerini üretip PostgreSQL `pgvector` tablosuna senkronize eder.
 5.  Uçtan uca kalite denetimi (Null, veri tipi kontrolleri) yaparak kalite raporu (`latest_report.json`) üretir.
+
+<img width="2878" height="1546" alt="Ekran görüntüsü 2026-06-06 175437" src="https://github.com/user-attachments/assets/06432504-7b48-4d8b-b819-432b30edb50c" />
+<img width="2869" height="1533" alt="Ekran görüntüsü 2026-06-06 175442" src="https://github.com/user-attachments/assets/1c2e85e5-f834-466d-a38a-f5fb3887970e" />
+<img width="2871" height="1554" alt="Ekran görüntüsü 2026-06-06 175452" src="https://github.com/user-attachments/assets/bdf5c9a8-881f-48f8-acb8-218e1eb653cc" />
+<img width="2862" height="1532" alt="Ekran görüntüsü 2026-06-06 175506" src="https://github.com/user-attachments/assets/164a38b9-3672-4f5c-a3c3-1e5e0afb0c61" />
+<img width="2875" height="1549" alt="Ekran görüntüsü 2026-06-06 175517" src="https://github.com/user-attachments/assets/d4b77bc3-cfb1-4d9a-a8a7-7fe04328412a" />
+<img width="2872" height="1544" alt="Ekran görüntüsü 2026-06-06 175429" src="https://github.com/user-attachments/assets/905136aa-cbca-466b-86fa-30321b3b5289" />
