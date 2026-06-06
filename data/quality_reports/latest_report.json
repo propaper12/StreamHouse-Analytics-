@@ -1,0 +1,42 @@
+{
+    "timestamp": "2026-06-06T14:50:07.823172Z",
+    "status": "Success",
+    "tables": {
+        "bronze_clickstream": {
+            "success": true,
+            "row_count": 96,
+            "checks": {
+                "event_id_not_null": {
+                    "success": true,
+                    "unexpected_count": 0
+                },
+                "user_id_not_null": {
+                    "success": true,
+                    "unexpected_count": 0
+                },
+                "valid_actions": {
+                    "success": true,
+                    "unexpected_count": 0
+                }
+            }
+        },
+        "silver_tickets": {
+            "success": true,
+            "row_count": 4,
+            "checks": {
+                "ticket_id_not_null": {
+                    "success": true,
+                    "unexpected_count": 0
+                },
+                "valid_sentiment": {
+                    "success": true,
+                    "unexpected_count": 0
+                },
+                "valid_category": {
+                    "success": true,
+                    "unexpected_count": 0
+                }
+            }
+        }
+    }
+}

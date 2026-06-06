@@ -1,0 +1,21 @@
+ticket_id,user_id,timestamp,subject,description,priority,status
+90e624e5-2850-42eb-85b7-307799039b6c,13504,2026-06-06T03:20:43.252548Z,Şifre Sıfırlama Hatası,Şifremi unuttum butonuna basıyorum ancak e-posta adresime sıfırlama linki gelmiyor. Lütfen kontrol edin.,Medium,Open
+29cf713b-f01d-4811-83d3-b927853acfeb,70318,2026-06-06T04:13:43.252548Z,Kargo Gecikmesi,Siparişimi 5 gün önce vermeme rağmen kargo hala yola çıkmadı. Hızlı teslimat seçeneği için ekstra ücret ödemiştim.,High,Open
+d6cdf34c-c5a4-4bfe-866d-745d51ea8556,40493,2026-06-06T11:37:43.252548Z,Ürün Kalitesi Beklentinin Altında,Görsellerdeki ürünle gelen ürünün kumaş kalitesi çok farklı. Bu fiyata değecek bir ürün değil maalesef.,Low,Pending
+261e9f78-0876-4793-a312-80da98a82fb9,42927,2026-06-06T05:34:43.252548Z,Şifre Sıfırlama Hatası,Şifremi unuttum butonuna basıyorum ancak e-posta adresime sıfırlama linki gelmiyor. Lütfen kontrol edin.,Medium,Pending
+111aff91-19a2-4629-825b-c663e05562f1,79888,2026-06-06T03:38:43.252548Z,İade Tutarı Hesaba Yatmadı,3 gün önce iptal ettiğim siparişin ücret iadesi yapıldı dendi ama banka hesabımda hala görünmüyor.,Medium,Pending
+46351c2a-7968-42c6-b0c4-168572c8f3e9,33232,2026-06-06T11:22:43.252548Z,Harika Ürün Teşekkürler,"Aldığım kablosuz kulaklığın ses kalitesi ve şarj süresi mükemmel. Çok memnun kaldım, teşekkürler.",Low,Open
+a3124b04-144d-40fb-892d-1accf53fcb59,11149,2026-06-06T06:34:43.252548Z,Sepete Ürün Eklenmiyor,Web sitenizden alışveriş yaparken sepete ekle butonuna tıklıyorum ama sepet boş görünüyor. Ödeme sayfasına geçemiyorum.,High,Pending
+1f51af84-9dca-4388-8e21-eba6b160f382,79041,2026-06-05T22:45:43.252548Z,Mükerrer Çekim Yapıldı,Hesap hareketlerimde gördüm ki aynı sipariş için kartımdan iki kez 1500 TL çekilmiş. İadesini talep ediyorum.,Urgent,Open
+483b78e8-bbd3-4807-9333-a701809a7fb0,45054,2026-06-05T21:53:43.252548Z,Kırık Ürün Geldi,Satın aldığım porselen yemek takımı kargoda kırılmış. Kutunun içi paramparçaydı. Değişim veya iade istiyorum.,High,Open
+15cc4bf1-27cb-4160-8c11-ee07b5ea3b89,18423,2026-06-06T01:07:43.252548Z,Harika Ürün Teşekkürler,"Aldığım kablosuz kulaklığın ses kalitesi ve şarj süresi mükemmel. Çok memnun kaldım, teşekkürler.",Low,Open
+cbfd126e-fe73-4f38-be4a-dd6183bece57,78650,2026-06-06T10:27:43.252548Z,Kırık Ürün Geldi,Satın aldığım porselen yemek takımı kargoda kırılmış. Kutunun içi paramparçaydı. Değişim veya iade istiyorum.,High,Pending
+c6ac851d-1088-4b6f-b5a4-f6650c2649ca,29039,2026-06-06T13:03:43.252548Z,Şifre Sıfırlama Hatası,Şifremi unuttum butonuna basıyorum ancak e-posta adresime sıfırlama linki gelmiyor. Lütfen kontrol edin.,Medium,Open
+e2f25f89-1f9e-4827-bfc5-511814fed12f,93439,2026-06-06T06:34:43.252548Z,Sepete Ürün Eklenmiyor,Web sitenizden alışveriş yaparken sepete ekle butonuna tıklıyorum ama sepet boş görünüyor. Ödeme sayfasına geçemiyorum.,High,Pending
+158475b7-4d65-477e-a788-6b303d728c95,38414,2026-06-06T05:39:43.252548Z,Harika Ürün Teşekkürler,"Aldığım kablosuz kulaklığın ses kalitesi ve şarj süresi mükemmel. Çok memnun kaldım, teşekkürler.",Low,Open
+e3637d50-cbc0-407b-8ff1-8de958c970e8,48697,2026-06-06T01:34:43.252548Z,Şifre Sıfırlama Hatası,Şifremi unuttum butonuna basıyorum ancak e-posta adresime sıfırlama linki gelmiyor. Lütfen kontrol edin.,Medium,Open
+bac28734-beb5-405d-85f5-cbdea0763600,61763,2026-06-06T14:32:43.252548Z,Uygulama Sürekli Çöküyor,Mobil uygulamanız son güncellemeden sonra sürekli çöküyor. Giriş yap ekranında donup kalıyor.,High,Pending
+87e674c4-a2b0-4234-bb1e-7eeb074baad8,82167,2026-06-06T01:44:43.252548Z,Harika Ürün Teşekkürler,"Aldığım kablosuz kulaklığın ses kalitesi ve şarj süresi mükemmel. Çok memnun kaldım, teşekkürler.",Low,Pending
+33bd1c25-aa68-461b-9274-7f36986be516,89992,2026-06-06T14:21:43.252548Z,Şifre Sıfırlama Hatası,Şifremi unuttum butonuna basıyorum ancak e-posta adresime sıfırlama linki gelmiyor. Lütfen kontrol edin.,Medium,Pending
+e7c8e0e1-b870-4392-8eb0-476b8752305e,19451,2026-06-05T21:36:43.252548Z,Mükerrer Çekim Yapıldı,Hesap hareketlerimde gördüm ki aynı sipariş için kartımdan iki kez 1500 TL çekilmiş. İadesini talep ediyorum.,Urgent,Open
+03ebd155-4ea6-4dbc-979e-946d843f6e19,55385,2026-06-05T21:13:43.252548Z,Mükerrer Çekim Yapıldı,Hesap hareketlerimde gördüm ki aynı sipariş için kartımdan iki kez 1500 TL çekilmiş. İadesini talep ediyorum.,Urgent,Open

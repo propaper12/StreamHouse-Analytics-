@@ -1,0 +1,3 @@
+ticket_id,user_id,timestamp,subject,description,priority,status
+ed1f5cd6-5688-4146-8365-5a4bf2e83538,95500,2026-06-06T14:16:02.874015Z,ödeme,"ödeme yaparken hata olsutu ve paramı cektı ama odemeyı yapmadı bununla ılgılenın
+",High,Open
